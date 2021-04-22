@@ -1,0 +1,93 @@
+            @font-face {
+                font-family: Poppins;
+                src: url('font/Poppins/Poppins-Black.ttf');
+            }
+            
+            @font-face {
+                font-family: Poppins light;
+                src: url('font/Poppins/Poppins-Light.ttf');
+            }
+            
+            @font-face {
+                font-family: Poppins SemiBold;
+                src: url('font/Poppins/Poppins-SemiBold.ttf');
+            }
+            
+            @font-face {
+                font-family: PoppinsBold;
+                src: url('font/Poppins/Poppins-Bold.ttf');
+            }
+            
+            @font-face {
+                font-family: PoppinMedium;
+                src: url('font/Poppins/Poppins-Medium.ttf');
+            }
+            
+            nav {
+                font-family: Poppins;
+            }
+            
+            p {
+                font-family: Poppins light;
+            }
+            
+            footer {
+                font-family: Poppins;
+                font-style: bold;
+                width: 100%;
+            }
+            
+            label {
+                font-family: Poppins light;
+                text-align: justify;
+            }
+            
+            label {
+                font-family: Poppins light;
+            }
+            
+            h2 {
+                font-family: Poppins SemiBold;
+            }
+            
+            section {
+                margin-bottom: 10vw;
+                text-align: justify;
+                margin-top: 7vw;
+            }
+            
+            #servive1 {
+                border: none;
+            }
+            
+            nav {
+                font-size: 1.2rem;
+            }
+            
+            .barra {
+                width: 400px;
+                height: 40px;
+                border-radius: 4px;
+                margin-bottom: 20px;
+                color: white;
+                padding: 5px;
+            }
+            
+            .title {
+                font-family: PoppinsBold;
+                font-size: 5vw;
+            }
+            
+            .subtitle {
+                font-family: PoppinMedium;
+                font-size: 3vw;
+            }
+            
+            #btn_contact {
+                background-color: purple;
+                border-color: purple;
+            }
+            
+            .text {
+                color: purple;
+            }
